@@ -1,6 +1,6 @@
-# learning_java with Team Treehouse @ https://teamtreehouse.com
+# Learning Java with Team Treehouse @ https://teamtreehouse.com
 
-The sub folders are just collections of java programs that run independently from the others. Each is designed to tackle different introductory concepts within java.
+The sub folders are simply collections of java programs that run independently from the others. Each is designed to tackle different introductory concepts within Java.
 
 Example concepts:
 - object oriented programming
