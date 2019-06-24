@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "intro_java.java_objects.maps.Main",
+            "projectName": "learning_java_5b6b09c1"
+        }
+    ]
+}
