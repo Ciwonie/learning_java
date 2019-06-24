@@ -10,9 +10,9 @@ Example concepts:
 - regular expressions
 
 My favorite of the programs is within the hangman sub folder. 
-'''
+`
 When compiled, launch is with a starting argument (java Hangman <String>). That word will become the word choosen for a game of hangman. Hand off the program to a friend and watch them solve the word within the command line!
-'''
+`
   
 More advanced topics are soon to come!
 
